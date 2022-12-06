@@ -26,7 +26,7 @@ const config = {
 			$svg: 'src/ui/svg',
 			$root: 'src'
 		}
-	},
+	}
 };
 
 export default config;
